@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "gray-background-1436871274B7v.jpg",
+      "filename" : "text_background.jpeg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "gray-background-1436871274B7v@2x.jpg",
+      "filename" : "text_background@2x.jpeg",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "gray-background-1436871274B7v@3x.jpg",
+      "filename" : "text_background@3x.jpeg",
       "idiom" : "universal",
       "scale" : "3x"
     }
